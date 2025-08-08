@@ -12,3 +12,5 @@ Tạo file cs:
 Tạo Models (Product & Category & Stock)
 
 Tạo DbContext : Data/AppDbContext.cs
+
+Cấu hình trong Program.cs: Program.cs ; appsettings.json
